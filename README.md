@@ -1,10 +1,13 @@
-# Monero
+# TidePodCoin
 
+Copyright (c) 2018 The TidePodCoin Project
 Copyright (c) 2014-2017 The Monero Project.   
 Portions Copyright (c) 2012-2013 The Cryptonote developers.
+Everything below will be updated soon.
+READMEDONTEATME.md
 
 ## Development resources
-
+Coming Soon
 - Web: [getmonero.org](https://getmonero.org)
 - Forum: [forum.getmonero.org](https://forum.getmonero.org)
 - Mail: [dev@getmonero.org](mailto:dev@getmonero.org)
